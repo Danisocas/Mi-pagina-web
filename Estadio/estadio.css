@@ -1,0 +1,19 @@
+.Top_jugadores {
+  background-color: rgb(223, 223, 199);
+  border-radius: 10px;
+  float: left;
+  width: 24%; /* Ajusta el porcentaje según el número de divs y el margen */
+  margin: 0.5%;
+  /* height: 400px; */
+} 
+
+.img_jugadores {
+  width: 100%;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.text_jugadores {
+  margin: 10px;
+}
+
